@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.d10ddbce.css",
-    "main.js": "/static/js/main.07fdc7e8.js",
-    "static/media/product.png": "/static/media/product.753625d629787bb4783c.png",
-    "static/media/boAt.png": "/static/media/boAt.547fdfc6ef4805f07f13.png",
-    "static/media/cric.png": "/static/media/cric.8418f1107045ba3588f0.png",
+    "main.js": "/static/js/main.fd934580.js",
+    "static/media/femella.PNG": "/static/media/femella.377f59a5b45ebd72d436.PNG",
+    "static/media/discovery.PNG": "/static/media/discovery.bee04012141287fcf9de.PNG",
+    "static/media/nykaa.PNG": "/static/media/nykaa.c48f59f2ec9bb5f2a1ac.PNG",
+    "static/media/head.PNG": "/static/media/head.7277afbf274d1b3c9caa.PNG",
     "static/media/Parteek_Kumar_Resume (2).pdf": "/static/media/Parteek_Kumar_Resume (2).2b1f7bc45ba8b4964f2a.pdf",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/netlify.png": "/static/media/netlify.156b9a663fd0c16d4e19.png",
-    "static/media/starwar.png": "/static/media/starwar.f90010f7490867acc14b.png",
     "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
     "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/vscode.png": "/static/media/vscode.d793c746fbc937f66e3d.png",
@@ -20,10 +20,10 @@
     "static/media/eduOrange.svg": "/static/media/eduOrange.c61dcfc316d381d83890e24aabcbfb95.svg",
     "index.html": "/index.html",
     "main.d10ddbce.css.map": "/static/css/main.d10ddbce.css.map",
-    "main.07fdc7e8.js.map": "/static/js/main.07fdc7e8.js.map"
+    "main.fd934580.js.map": "/static/js/main.fd934580.js.map"
   },
   "entrypoints": [
     "static/css/main.d10ddbce.css",
-    "static/js/main.07fdc7e8.js"
+    "static/js/main.fd934580.js"
   ]
 }

@@ -1,46 +1,46 @@
 import React from "react";
-import boAt from "../assets/portfolio/boAt.png"
-import starwar from "../assets/portfolio/starwar.png"
-import cric from "../assets/portfolio/cric.png"
-import product from "../assets/portfolio/product.png"
+import boAt from "../assets/femella.PNG"
+import starwar from "../assets/discovery.PNG"
+import cric from "../assets/head.PNG"
+import product from "../assets/nykaa.PNG"
 
 const Portfolio = () => {
   const projects = [
     {
       id: 1,
       src: boAt,
-      title: "boAt-lifeStyle Clone [Group Project]",
-      tech:"HTML | CSS | JavaScript",
-      desc:"This is a clone of an e-commerce website named boAt. Users can buy electronic products on this website. Pages we made:Home page, Login/Signup page, Product Page, Footer Page, Cart page, Payment Page.",
-      link: "https://boat-clone2.netlify.app/",
-      repo: "https://github.com/surajkm24/boAt-clone",
+      title: "Femella-Clone",
+      tech:"HTML | CSS | JavaScript } React ",
+      desc:"This is a clone of an e-commerce website named Femella. Users can buy women clothes on this website. Pages we made:Home page, Login/Signup page, Product Page, Footer Page, Cart page, Payment Page.",
+      link: "https://femellaa.netlify.app/",
+      repo: "https://github.com/Dheeraj-Bhandari/Femella-Clone.git",
     },
     {
       id: 2,
       src: cric,
-      title: "ESNFCric Clone",
+      title: "Headphonezone.in-Clone",
       tech:"HTML | CSS | JavaScript | React",
-      desc:"This is a clone of sports news website named ESPN-cric where user can see live updates and hightlight of the news.Pages: Home Page, Footer, News Page. ",
-      link: "https://the-awesome-ayeshakhan14-site.netlify.app/",
-      repo: "https://github.com/AyeshaKhan14/youthful-dogs-6115",
+      desc:"This is a clone of electronic gadget website named Headphonezone.in where user can buy electronic gadget .Pages we made : Home Page, Footer, Product Page. ",
+      link: "https://unique-sprite-5a80fe.netlify.app/",
+      repo: "https://github.com/deepaksahu3698/headphonezone.in.git",
     },
     {
       id: 3,
       src: product,
-      title: "E-commerce website",
+      title: "Nykaa-Clone",
       tech:"HTML | CSS | JavaScript | React",
-      desc:"I have built this an e-commerce website. On this website, firstly user have to login after then it will redirect to the home page where user can see the product collection and product page as well as can add the items to the cart.",
-      link: "https://isnt-ayeshakhan14-awesome.netlify.app/",
-      repo: "https://github.com/AyeshaKhan14/React-app",
+      desc:"This is a clone of an e-commerce website named Nykaa. Users can buy women beauty product on this website. Pages we made:Home page, Login/Signup page, Product Page, Footer Page, Cart page, Payment Page",
+      link: "https://gifted-euler-2666f3.netlify.app/index.html",
+      repo: "https://github.com/yashasvij-19/Construct-Week-Unit-4.git",
     },
     {
       id: 4,
       src: starwar,
-      title: "Star War",
+      title: "Discoveryplus-Clone",
       tech:"HTML | CSS | JavaScript",
-      desc:"I built this website when I was learning about debouncing. I have used SWAP Api to fetch data. User can search for a character, select the character and can view their details by clicking on the character.      ",
-      link: "https://strong-maamoul-092c90.netlify.app/",
-      repo: "https://github.com/AyeshaKhan14/Star-Wars",
+      desc:"This is a clone of an e-commerce website named Discoveryplus.in. Users can see live  video of animals & people. Pages we made:Home page, Login/Signup page, Product Page, Footer Page, Cart page, Payment Page",
+      link: "https://discovery-plus.vercel.app/",
+      repo: "https://github.com/PrabhatAcharya/Discovery-Plus_Clone.git",
     },
    
    
